@@ -19,6 +19,12 @@
 
 ---
 
+## 🌐 Portafolio
+
+👉 [Visita mi portafolio aquí](https://banercito.github.io/portafolio-web-by-baner/)
+
+---
+
 ## 📊 Estadísticas
 
 <div align="center">
