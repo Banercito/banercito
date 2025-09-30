@@ -1,4 +1,4 @@
-### ¡Hola, soy Banercito!👋
+### ¡Hola, soy Baner!👋
 
 Soy un apasionado desarrollador de software con un enfoque especializado en el desarrollo backend usando tecnologías como C# en .NET y Java con Spring Boot, complementado por conocimientos sólidos en tecnologías frontend como React y Angular.
 
@@ -10,7 +10,7 @@ Mi experiencia incluye trabajar con arquitecturas backend modernas, bases de dat
 
 ### 🛠️ Languages and tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,angular,js,ts,html,css,git,github,docker,postgresql,vscode,idea,aws" alt="Tecnologías" />
 </p>
 
@@ -25,8 +25,16 @@ Mi experiencia incluye trabajar con arquitecturas backend modernas, bases de dat
 
 ### My Stats
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Banercito&show_icons=true&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Banercito&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub"/>
+</p>
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Banercito&layout=compact&theme=radical&hide_border=true)
+### Most Used Languages
 
-![Contador de Visitantes](https://komarev.com/ghpvc/?username=Banercito&color=blue)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banercito&layout=compact&theme=radical&hide_border=true" alt="Lenguajes"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Banercito&color=blue" alt="Contador de Visitantes"/>
+</p>
