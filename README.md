@@ -1,4 +1,4 @@
-### ?Hola, soy Banercito!👋
+### ¡Hola, soy Banercito!👋
 
 Soy un apasionado desarrollador de software con un enfoque especializado en el desarrollo backend usando tecnologías como C# en .NET y Java con Spring Boot, complementado por conocimientos sólidos en tecnologías frontend como React y Angular.
 
