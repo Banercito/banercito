@@ -1,38 +1,37 @@
-### ¡Hola, soy Baner!👋
+# 👋 ¡Hola, soy Baner!
 
-Soy un apasionado desarrollador de software con un enfoque especializado en el desarrollo backend usando tecnologías como C# en .NET y Java con Spring Boot, complementado por conocimientos sólidos en tecnologías frontend como React y Angular.
-
-Mi misión es construir aplicaciones robustas, escalables y eficientes que ofrezcan experiencias de usuario excepcionales. Me entusiasma enfrentar desafíos complejos, diseñar soluciones innovadoras y transformar ideas en realidad a través del código.
-
-Mi experiencia incluye trabajar con arquitecturas backend modernas, bases de datos eficientes y tecnologías frontend que potencian la interactividad y el diseño. Me esfuerzo por mantenerme actualizado con las últimas tendencias y herramientas para garantizar que cada proyecto alcance su máximo potencial.
+💻 Desarrollador de software especializado en **backend con C# (.NET)** y **Java (Spring Boot)**, con experiencia en **frontend con React y Angular**.  
+🚀 Me apasiona crear aplicaciones **robustas, escalables y eficientes**, siempre aplicando buenas prácticas y manteniéndome actualizado con las últimas tecnologías.  
 
 ---
 
-### 🛠️ Languages and tools
+## 🛠️ Tecnologías y Herramientas  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,angular,js,ts,html,css,git,github,docker,postgresql,mysql,mssql,ruby,python,vscode,idea,aws" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,php,ruby,rails,js,ts,react,angular,postgresql,mysql,mssql,git,github,docker,aws,vscode,visualstudio,idea,eclipse" alt="Tecnologías"/>
 </p>
 
 ---
 
-### Mis Proyectos Recientes
+## 📌 Proyectos Destacados  
 
-* **Hotel Tulipán:** Una aplicación robusta para la gestión integral de un hotel.
-* **Gestión de Finanzas Personales:** Una herramienta para organizar y controlar tus finanzas.
+- **Hotel Tulipán** → Sistema de gestión integral para hoteles.  
+- **Gestión de Finanzas Personales** → App para controlar ingresos, gastos y presupuestos.  
 
 ---
 
-### My Stats
+## 📊 Estadísticas  
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Banercito&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="Estadísticas de GitHub"/>
-
-    <img src="https://komarev.com/ghpvc/?username=Banercito&color=blue" alt="Contador de Visitantes"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Banercito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
-### Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banercito&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes"/>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banercito&layout=compact&theme=radical&hide_border=true" alt="Lenguajes"/>
+  <img src="https://komarev.com/ghpvc/?username=Banercito&color=blue" alt="Contador de Visitantes"/>
 </p>
