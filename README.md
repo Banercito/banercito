@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Baner!
 
-💻 I'm a passionate software developer specialized in Backend development, mastering key technologies like C# with .NET and Java with Spring Boot, while also complementing it with experience in Frontend (React and Angular).
+💻 I'm a passionate software developer highly specialized in Backend development, with a deep command of key enterprise technologies such as C# (.NET) and Java (Spring Boot). My Full Stack experience is complemented by mastery in Frontend (React, Angular, HTML, CSS and JavaScript). In addition, I have versatile experience with scripting languages ​​such as Python, Ruby and PHP. My focus is on building robust, scalable and efficient solutions, utilizing a broad technology stack to solve any challenge.
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 🌐 Portfolio
 
-👉 [Check out my portfolio here](https://tusitio.com)
+👉 [Check out my portfolio here](https://banercito.github.io/portafolio-web-by-baner/)
 
 ---
 
