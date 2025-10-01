@@ -30,8 +30,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Banercito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&layout=compact" alt="GitHub Stats" height="150" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banercito&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="150" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Banercito&show_icons=true&theme=dark&hide_border=true&count_private=true&layout=compact&card_width=290" alt="Overall Stats" height="150" style="display: inline-block;" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banercito&layout=compact&theme=dark&hide_border=true&card_width=290" alt="Languages" height="150" style="display: inline-block;" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Banercito&theme=dark&hide_border=true&card_width=290" alt="GitHub Streak" height="150" style="display: inline-block;" />
 </div>
 
 ---
