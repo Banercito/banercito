@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Baner! 💻
+# 👋 Hi, I'm Baner!
 
 I'm a passionate software developer highly specialized in **Backend** development, with a deep command of key enterprise technologies such as **C# (.NET)** and **Java (Spring Boot)**. My Full Stack experience is complemented by mastery in Frontend (**React, Angular, HTML, CSS** and **JavaScript**). In addition, I have versatile experience with scripting languages ​​such as **Python, Ruby** and **PHP**. My focus is on building robust, scalable and efficient solutions, utilizing a broad technology stack to solve any challenge.
 
