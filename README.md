@@ -15,7 +15,7 @@ I'm a passionate software developer highly specialized in **Backend** developmen
 
 ## 🌐 Portfolio
 
-👉 [Check out my portfolio here](https://banercito.github.io/portafolio-web-by-baner/)
+👉 [Check out my portfolio here](https://banercito.github.io/portfolio)
 
 ## ⚡ Stats
 
